@@ -17,7 +17,7 @@
         <dependency>
             <groupId>com.diogonunes</groupId>
             <artifactId>JCDP</artifactId>
-            <version>3.0.3</version>
+            <version>4.0.0</version>
         </dependency>
     </dependencies>
 
