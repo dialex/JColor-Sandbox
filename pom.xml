@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>org.example</groupId>
-    <artifactId>JCDP-Sandbox</artifactId>
+    <artifactId>JColor-Sandbox</artifactId>
     <version>0.0.0</version>
 
     <properties>
@@ -43,7 +43,7 @@
                         <manifest>
                             <addClasspath>true</addClasspath>
                             <classpathPrefix>lib/</classpathPrefix>
-                            <mainClass>org.example.JcdpConsumer</mainClass>
+                            <mainClass>org.example.JColorConsumer</mainClass>
                         </manifest>
                     </archive>
                 </configuration>
@@ -61,7 +61,7 @@
                         <manifest>
                             <addClasspath>true</addClasspath>
                             <classpathPrefix>lib/</classpathPrefix>
-                            <mainClass>org.example.JcdpConsumer</mainClass>
+                            <mainClass>org.example.JColorConsumer</mainClass>
                         </manifest>
                     </archive>
                 </configuration>

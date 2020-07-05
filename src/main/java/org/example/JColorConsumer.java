@@ -7,7 +7,7 @@ import static com.diogonunes.jcolor.Ansi.colorize;
 import static com.diogonunes.jcolor.Attribute.*;
 import static org.example.DataGenerator.randomInt;
 
-public class JcdpConsumer {
+public class JColorConsumer {
     public static void main(String[] args) {
         // Use Case 1: use Ansi.colorize() to format inline
         System.out.println(colorize("This text will be yellow on magenta", YELLOW_TEXT(), MAGENTA_BACK()));

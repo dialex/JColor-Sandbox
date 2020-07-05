@@ -1,2 +1,2 @@
 - Run `mvn package`
-- Run `java -jar target/JCDP-Sandbox-0.0.0-jar-with-dependencies.jar`
+- Run `java -jar target/JColor-Sandbox-0.0.0-jar-with-dependencies.jar`
