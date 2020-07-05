@@ -16,8 +16,8 @@
     <dependencies>
         <dependency>
             <groupId>com.diogonunes</groupId>
-            <artifactId>JCDP</artifactId>
-            <version>4.0.0</version>
+            <artifactId>JColor</artifactId>
+            <version>5.0.0</version>
         </dependency>
     </dependencies>
 
